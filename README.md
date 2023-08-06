@@ -1,5 +1,5 @@
 # nikel
 
-Este é um repositório de exemplo para o projeto [CODAÍ] (https://plataforma.growdev.com.br/).
+Este é um repositório de exemplo para o projeto [CODAÍ](https://plataforma.growdev.com.br/).
 
-This is a example repository to [CODAÍ] (https://plataforma.growdev.com.br/) project.
+This is a example repository to [CODAÍ](https://plataforma.growdev.com.br/) project.
